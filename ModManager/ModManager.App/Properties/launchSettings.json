@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModManager.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--add sodium --version 1.18.1 --loader fabric --path \"C:\\Repos\\ModManager\\ModManager\\ModManager.App\\bin\\Debug\\net6.0\""
+    }
+  }
+}
